@@ -288,14 +288,12 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   transition: 0.5s;
 }
 .work-item a h3 {
-  font-size: 20px;
+  font-size: 17px;
   color: #000;
-  margin-left: -50px;
   margin-bottom: 10px;
 }
 .work-item a p {
   font-size: 14px;
-  margin-left: -50px;
   color: #cccccc;
   margin-bottom: 0;
 }
