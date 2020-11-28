@@ -1125,4 +1125,11 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 
 }
 
+.img-responsive {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 /*# sourceMappingURL=style.css.map */
