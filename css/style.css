@@ -400,7 +400,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .fh5co-counters .fh5co-counter-label {
   color: #fff;
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 15px;
   font-family: "Montserrat", Arial, sans-serif;
   letter-spacing: 5px;
   margin-bottom: 2em;
@@ -408,7 +408,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .fh5co-lead {
-  font-size: 35px;
+  font-size: 37px;
   line-height: 1.5;
 }
 
