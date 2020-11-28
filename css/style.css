@@ -575,8 +575,8 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   padding: 20px;
 }
 .fh5co-feature .fh5co-icon {
+  margin-left: 30px;
   float: left;
-  width: 10%;
   display: block;
   margin-top: 5px;
 }
@@ -1118,7 +1118,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 
 .js .animate-box {
   opacity: 0;
-  max-width: 1080px;
+  max-width: 1200px;
 }
 
 /*# sourceMappingURL=style.css.map */
