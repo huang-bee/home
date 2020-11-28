@@ -183,7 +183,7 @@ figure {
 #fh5co-aside .fh5co-footer {
   position: absolute;
   bottom: 40px;
-  font-size: 18px;
+  font-size: 19px;
   text-align: center;
   width: 100%;
   font-weight: 400;
@@ -288,11 +288,15 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   transition: 0.5s;
 }
 .work-item a h3 {
+  text-align: left;
+  margin-left: 15px;
   font-size: 28px;
   color: #000;
   margin-bottom: 10px;
 }
+
 .work-item a p {
+  text-align: left;  margin-left: 15px;
   font-size: 18px;
   color: #cccccc;
   margin-bottom: 0;
